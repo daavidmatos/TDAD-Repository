@@ -1,3 +1,2 @@
 # TDAD-Repository
-- O Aplicativo consiste em conscientização ambiental em relação às mudanças climáticas e seus impactos.
-Baseados nos dados da ABoVE trouxemos para a realidade brasileira, se deparamos com muitos dados de estações de pesquisas no país, porém, estão dispersos e mal interpretados. Utilizando os dados da campanha aérea, fizemos uma correlação com os dados brasileiros, assim, fazendo um data mapping, informando os problemas ambientais e formas de conscientização.
+- The Application consists of environmental awareness in relation to climate change and its impacts. Based on the ABoVE data we brought to the Brazilian reality, we came across a lot of data from research stations in the country, however, they are dispersed and misinterpreted. Using data from the air campaign, we made a correlation with Brazilian data, thus making a data mapping, informing environmental problems and ways of raising awareness.
